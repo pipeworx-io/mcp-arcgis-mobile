@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/arcgis-mobile",
   "title": "Arcgis Mobile",
   "description": "City of Mobile GIS — Mobile, Alabama open geospatial data (ArcGIS).",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "websiteUrl": "https://pipeworx.io/packs/arcgis-mobile",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-arcgis-mobile",
